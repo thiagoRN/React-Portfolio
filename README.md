@@ -21,7 +21,7 @@
 
 </br></br>
 
-<h2 align="center">responsividade</h2>
+
 <p align="center">
    <img  src="/src/assets/p3.png">    
 </p>
