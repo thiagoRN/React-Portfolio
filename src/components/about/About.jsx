@@ -42,7 +42,7 @@ const About = () => {
                 </article>
               </div>
 
-              <p>Me chamo Thiago Ramos tenho 25 anos, estou cursando Ciência da computação atualmente no 6° 
+              <p>Me chamo Thiago Ramos tenho 26 anos, estou cursando Ciência da computação atualmente no 7° 
                   período, estou em busca de um estágio na área de desenvolvimento Web.</p>
                   
                   <p >No presente momento estou estudando e aprendendo sobre Javascript ES6, React.js e Node.js. 
