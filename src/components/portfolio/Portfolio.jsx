@@ -7,6 +7,7 @@ import IMG2 from '../../assets/room2.png'
 import IMG3 from '../../assets/room3.png'
 import IMG4 from '../../assets/room4.png'
 import IMG5 from '../../assets/room5.png'
+import IMG6 from '../../assets/n1.png'
 
 const data = [
   {
@@ -25,10 +26,10 @@ const data = [
   },
   {
     id:3,
-    image:IMG4,
-    title:'KyaraStore',
-    github:'https://github.com/thiagoRN/KyaraStore',
-    demo:'https://kyarastore-c605d.web.app'
+    image:IMG6,
+    title:'Clone Netflix',
+    github:'https://github.com/thiagoRN/cloneNetflix',
+    demo:'https://netflix-clone-5af4a.web.app'
   },
   {
     id:4,
@@ -43,6 +44,13 @@ const data = [
     title:'Web Currículo',
     github:'https://github.com/thiagoRN',
     demo:'https://webcurriculo-74507.web.app'
+  },
+  {
+    id:6,
+    image:IMG4,
+    title:'KyaraStore',
+    github:'https://github.com/thiagoRN/KyaraStore',
+    demo:'https://kyarastore-c605d.web.app'
   },
   
 ]
