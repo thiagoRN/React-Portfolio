@@ -42,16 +42,16 @@ const About = () => {
                 </article>
               </div>
 
-              <p>Me chamo Thiago Ramos tenho 26 anos, estou cursando Ciência da computação atualmente no 7° 
-                  período, estou em busca de um estágio na área de desenvolvimento Web.</p>
+              <p>Me chamo Thiago Ramos tenho 27 anos, formado em Ciência da computação no ano de 2023, Inglês instrumental, boa familiaridade em HTML, CSS, Javascript.</p>
                   
-                  <p >No presente momento estou estudando e aprendendo sobre Javascript ES6, React.js e Node.js. 
-                  Me identifico tanto na área de front End, quanto na área de Mobile.</p>
+                  <p >
+                    No presente momento estou estudando e aprendendo sobre Javascript ES6, Bootstrap, React.js e Node.js. 
+                  </p>
                   
-                  <p>Procuro estar em constante desenvolvimento das minhas habilidades e competências, neste 
-                  momento estou me dedicando a conclusão da minha graduação e me especializando em React.js.
-                  Me considero um profissional extremamente dedicado com o que me comprometo a fazer e busco 
-                  realizar da melhor maneira possível.</p>
+                  <p>
+                    Me identifico tanto na área de Front-End, quanto na área de Mobile. Me considero um profissional extremamente 
+                    dedicado com o que me comprometo a fazer e busco realizar da melhor maneira possível.
+                    </p>
 
               <a href="#contact" className='btn btn-primary'>Entre em Contato</a>
           </div>

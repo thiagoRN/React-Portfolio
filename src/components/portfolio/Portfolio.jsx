@@ -8,6 +8,8 @@ import IMG3 from '../../assets/room3.png'
 import IMG4 from '../../assets/room4.png'
 import IMG5 from '../../assets/room5.png'
 import IMG6 from '../../assets/n1.png'
+import IMG7 from '../../assets/room6.png'
+import IMG8 from '../../assets/carHub.jpg'
 
 const data = [
   {
@@ -16,6 +18,13 @@ const data = [
     title:'LetMeAsk',
     github:'https://github.com/thiagoRN/LetMeAsk',
     demo:'https://letmeask-cb459.web.app'
+  },
+  {
+    id:8,
+    image:IMG8,
+    title:'CarHub',
+    github:'https://github.com/thiagoRN/car_showcase',
+    demo:'https://car-showcase-cl57.vercel.app'
   },
   {
     id:2,
@@ -51,6 +60,13 @@ const data = [
     title:'KyaraStore',
     github:'https://github.com/thiagoRN/KyaraStore',
     demo:'https://kyarastore-c605d.web.app'
+  },
+  {
+    id:7,
+    image:IMG7,
+    title:'Crud',
+    github:'https://github.com/thiagoRN/Crud---react-node-mysql',
+    demo:''
   },
   
 ]
