@@ -1,7 +1,7 @@
 .about__container{
     display: grid;
     grid-template-columns: 35% 50%;
-    gap: 15%;
+    gap: 25%;
 
 }
 
@@ -70,7 +70,7 @@
     }
     .about__me{
         width: 50%;
-        margin: 2rem auto 4rem;
+        margin: 2rem auto 8rem;
     }
 
     .about__content p{

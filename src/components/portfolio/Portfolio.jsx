@@ -10,6 +10,7 @@ import IMG5 from '../../assets/room5.png'
 import IMG6 from '../../assets/n1.png'
 import IMG7 from '../../assets/room6.png'
 import IMG8 from '../../assets/carHub.jpg'
+import IMG9 from '../../assets/room7.jpg'
 
 const data = [
   {
@@ -25,6 +26,13 @@ const data = [
     title:'CarHub',
     github:'https://github.com/thiagoRN/car_showcase',
     demo:'https://car-showcase-cl57.vercel.app'
+  },
+  {
+    id:9,
+    image:IMG9,
+    title:'Book Store',
+    github:'https://github.com/thiagoRN/book-store-app',
+    demo:'https://mern-book-inventory-b3eeb.web.app'
   },
   {
     id:2,
