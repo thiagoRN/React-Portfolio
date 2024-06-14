@@ -10,7 +10,7 @@ import 'swiper/modules/pagination/pagination.min.css';
 import AVTR1 from '../../assets/avatar1.jpg'
 import AVTR2 from '../../assets/avatar2.jpg'
 import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+
 
 
 const data = [
@@ -27,11 +27,6 @@ const data = [
   {
     avatar:AVTR3,
     name:'Fernado A',
-    review:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde impedit, dicta expedita aspernatur, numquam ratione minima minus placeat veritatis commodi voluptatibus ipsa, velit sapiente doloremque aliquid laudantium? Aspernatur, ullam eligendi.'
-  },
-  {
-    avatar:AVTR4,
-    name:'ana C',
     review:'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Unde impedit, dicta expedita aspernatur, numquam ratione minima minus placeat veritatis commodi voluptatibus ipsa, velit sapiente doloremque aliquid laudantium? Aspernatur, ullam eligendi.'
   },
   
